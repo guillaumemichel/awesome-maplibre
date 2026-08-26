@@ -205,6 +205,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [maplibre-gl-vector-text-protocol](https://github.com/jimmyrocks/maplibre-gl-vector-text-protocol) - Supports `CSV`, `TSV`, `Topojson`, `KML`, `GPX`, and `TCX` formats using the addProtocol feature.
 - [geogrid-maplibre-gl](https://github.com/falseinput/geogrid-maplibre-gl) - Renders customizable graticule (geographic grid).
 - [maplibre-gleo](https://gitlab.com/IvanSanchez/maplibre-gleo) - Adds symbols using the "gleo" WebGL map rendering library.
+- [maplibre-image-plugins](https://github.com/lucaswoj/maplibre-image-plugins) - Animated icons from GIF, animated WebP, APNG, or AVIF files, plus a pulsing location dot, rendered on the GPU via `StyleImageWebGLData`. [demo](https://lucaswoj.github.io/maplibre-image-plugins/)
 - [maplibre-contourmap](https://github.com/AbelVM/maplibre-contourmap) - Renders contour lines from vector sources in MapLibre GL JS. [demo](https://abelvm.github.io/maplibre-contourmap/example/)
 - [maplibre-three-plugin](https://github.com/dvt3d/maplibre-three-plugin) - A bridge plugin that cleverly connects MapLibre GL JS with Three.js, enabling developers to implement 3D rendering and animation on maps.
 - [maplibre-gl-teritorio-cluster](https://github.com/teritorio/maplibre-gl-teritorio-cluster) - Clustering plugin implementing a MapLibre GL Layer with configurable HTML clustering renderer and support of events.
@@ -338,6 +339,7 @@ are designated with a ✅, and hosted projects with a 💙.
 - [Mappi Studio](https://mappi.studio) - An online map animation creator. Create cinematic travel routes, fly-over animations, and 4K map videos in your browser.
 - [MerryMap](https://merrymap.co) - Crowd-sourced map of neighborhood Christmas-light displays across ten US metros, with a browsable city guide per metro. Built with MapLibre GL JS on OpenFreeMap tiles, runtime-restyled dark for night viewing.
 - [Mountaya](https://mountaya.com) - Interactive 3D maps to understand, explore, and stay safe in the mountain.
+- [MTL Explorer](https://github.com/mindalyze-com/mtl-explorer) ([demo](https://mtl-demo.mindalyze.com/mtl/)) - A self-hosted GPS track archive that uses MapLibre GL JS for 2D and 3D map exploration, activity replay, track analysis, and route planning.
 - [Namazue Console](https://github.com/Hybirdss/namazue-console) - Japan-wide earthquake intelligence console with seismic intensity modeling, infrastructure impact assessment, and real-time P/S wave propagation. Built with MapLibre GL JS 5 + deck.gl 9. [demo](https://namazue.dev)
 - [On The Go Map](https://onthegomap.com) - A website for planning running and biking routes. Migrated to MapLibre
 - [Pharos AI](https://conflicts.app) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive MapLibre-based geospatial visualization. ([Source Code](https://github.com/Juliusolsson05/pharos-ai))
